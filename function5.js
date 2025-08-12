@@ -1,5 +1,4 @@
-//Write a function called sum that finds the sum from 1 to a number
-let num=sum(12,15);
+//Write a function called sum that finds the sum from 1 to a num
 function sum (a,b){
 let t = a+b;
 return t;
