@@ -1,7 +1,8 @@
 //Write a function called sum that finds the sum from 1 to a num
 function sum (a){
-for (let i=0;i<a;i++){
 let first=0;
+for (let i=0;i<a;i++){
+
 }
 
 console.log(num);
