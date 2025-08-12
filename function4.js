@@ -15,3 +15,4 @@ console.log("Even Number");
 else if (N%2!=0){
 console.log("Odd Number");
 }
+}
