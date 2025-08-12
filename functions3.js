@@ -12,5 +12,5 @@ function e(number){
 let canvote= number>18;
 return canvote;
 }
-let a=age(19);
+let a=e(19);
 console.log(a);
