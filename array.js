@@ -1,5 +1,5 @@
 function aray(arr){
-if (users.age >= 18 && users.gender="male"){
+if (users.age >= 18 && users.gender=="male"){
 console.log(users.name);
 }
 else{
