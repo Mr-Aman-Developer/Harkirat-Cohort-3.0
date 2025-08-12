@@ -23,6 +23,6 @@ function r(number) {
   }
 else {
 return false;
-};
-let b = r(17);
+}};
+let b = r(1);
 console.log(b);
