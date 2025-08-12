@@ -12,6 +12,6 @@ function OE(N){
 if (N%2==0){
 console.log("Even Number");
 }
-else {
+else if (N%2!=0){
 console.log("Odd Number");
 }
