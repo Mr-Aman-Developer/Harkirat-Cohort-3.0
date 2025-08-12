@@ -17,7 +17,7 @@ console.log(a);
 /*verifying voting age with functions and if-else looping*/
 
 function r(number) {
-  if (number > 18) {
+  if (number ==> 18) {
     return true;
   }
 else {
