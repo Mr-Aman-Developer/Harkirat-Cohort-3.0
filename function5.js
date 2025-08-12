@@ -2,7 +2,7 @@
 function sum (a){
 let first=0;
 for (let i=0;i<a;i++){
-first=first+a
+first= first+i;
 }
 
 console.log(num);
