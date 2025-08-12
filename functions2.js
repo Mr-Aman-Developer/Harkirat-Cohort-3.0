@@ -5,5 +5,6 @@ return total;
 
 let ans= Sum(2,3);
 
-let ans= Sum(2,70);
+let ans2= Sum(2,70);
 console.log(ans);
+console.log(ans2);
