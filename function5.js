@@ -3,3 +3,4 @@ function sum (a,b){
 let t=a+b;
 return t;
 }
+for (let i=0;i<
