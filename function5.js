@@ -7,5 +7,5 @@ return t;
 for (let i=0;i<num;i++){
 console.log(t);
 }
-let num=sum(12,15);
+
 console.log(num);
