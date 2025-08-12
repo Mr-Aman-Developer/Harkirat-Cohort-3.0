@@ -6,4 +6,5 @@ function sum(a) {
   }
 return first;
 }
-console.log(first);
+let 
+console.log();
