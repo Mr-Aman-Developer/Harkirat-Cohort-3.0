@@ -10,6 +10,6 @@ name:"Sadhvi",
 age:28,
 gender:"female"
 }, {
-name:"Aman",
+name:"Raghav",
 age:18,
 gender:"male"}
