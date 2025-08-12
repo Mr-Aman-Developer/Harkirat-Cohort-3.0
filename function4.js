@@ -4,5 +4,5 @@ let Odd=Number%2!=0;
 return Even;
 return Odd;
 }
-let N=oddEven(12)
+let N=oddEven(11)
 console.log(N);
