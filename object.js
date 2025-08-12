@@ -1,5 +1,5 @@
 function user(name,age){
-let name=prompt("What is your name?");
+let Name=prompt("What is your name?");
 if (name){
 console.log("hello"+name);
 }
