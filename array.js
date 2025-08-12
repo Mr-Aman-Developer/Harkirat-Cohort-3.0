@@ -1,5 +1,5 @@
 function Array(arr){
-if (users.age>=18
+if (users.age>=18 &&){}
 }
 
 let user= [{
