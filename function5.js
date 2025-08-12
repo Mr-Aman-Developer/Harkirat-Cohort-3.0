@@ -3,7 +3,7 @@ let num=sum(12,15);
 function sum (a,b){
 let t = a+b;
 return t;
-}
+
 for (let i=0;i<num;i++){
 console.log(t);
 }
