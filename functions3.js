@@ -20,6 +20,9 @@ function r(number) {
   if (number > 18) {
     return true;
   }
+else
+{
+return false;
 }
-let a = e(19);
+let a = r(19);
 console.log(a);
