@@ -6,3 +6,4 @@ console.log("hello"+Name);
 console.log("hello Stranger!");
 }
 }
+user;
