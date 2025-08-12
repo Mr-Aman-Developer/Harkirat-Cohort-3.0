@@ -3,6 +3,6 @@ function Array(arr){
 
 let user= {
 name:"Aman"
-age:16
+age:18
 gender:"male"
 }
