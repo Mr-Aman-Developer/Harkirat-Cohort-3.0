@@ -16,3 +16,4 @@ else if (N%2!=0){
 console.log("Odd Number");
 }
 }
+let =
