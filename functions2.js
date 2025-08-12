@@ -4,9 +4,9 @@ return total;
 }
 
 let ans= Sum(2,3);
-
 let ans2= Sum(2,70);
 let arr=["ans","ans2"];
+
 for (let i=0;i<arr.length;i++){
 console.log(i);
 }
