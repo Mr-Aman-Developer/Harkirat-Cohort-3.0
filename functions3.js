@@ -11,3 +11,4 @@ function age(number){
 let canvote=age>18;
 }
 let a=age(19);
+console.log(a);
