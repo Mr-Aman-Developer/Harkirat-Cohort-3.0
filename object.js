@@ -1,4 +1,4 @@
-function user(name,age){
+function user(){
 let Name=prompt("What is your name?");
 if (name){
 console.log("hello"+name);
