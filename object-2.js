@@ -7,7 +7,7 @@ if (user.age>18){
 console.log("you are legal to vote ");
 }
 else{
-
+console.log("you are not legal to vote ");
 }
 }
 let user= {
