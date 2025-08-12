@@ -1,1 +1,3 @@
-function 
+function oddEven(Numnber){
+let Even=
+}
