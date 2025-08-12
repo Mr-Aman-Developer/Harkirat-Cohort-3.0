@@ -1,5 +1,5 @@
 function aray(arr){
-for
+for(const users of arr){
 if (users.age >= 18 && users.gender=="male"){
 console.log(users.name);
 }
