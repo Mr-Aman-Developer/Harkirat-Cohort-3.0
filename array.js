@@ -7,6 +7,7 @@ else{
 console.log("no user");
 }
 }
+}
 const users= [{
 name:"Aman",
 age:18,
