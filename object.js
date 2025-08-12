@@ -1,2 +1,3 @@
 function user(name,age){
-let Name= }
+let Name=prompt("What is your name?");
+}
