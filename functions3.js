@@ -8,7 +8,7 @@ console.log(canvote);
 /*verifying voting age without loops,or functions*/  
 
 function age(number){
-let canvote=age>18;
+let canvote=number>18;
 }
 let a=age(19);
 console.log(a);
