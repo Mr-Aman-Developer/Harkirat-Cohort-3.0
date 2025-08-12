@@ -15,7 +15,8 @@ return canvote;
 let a=e(19);
 console.log(a);
 /*verifying voting age with functions and if-else looping*/
-  function r(number){
+ 
+function r(number){
  if(number>18){
 return true; 
 }
