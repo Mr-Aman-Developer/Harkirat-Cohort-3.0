@@ -5,4 +5,5 @@ function greet(user){
 cosnole.log("Hi"+user.gender+user.name+", your Age is "+user.age);
 }
 
-let user= 
+let user= {
+name:"Aman"
