@@ -4,3 +4,4 @@ let Odd=number%3==0;
 return Even;
 return Odd;
 }
+let Num=oddEven(12)
