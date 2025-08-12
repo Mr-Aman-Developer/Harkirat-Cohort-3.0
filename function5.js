@@ -4,5 +4,5 @@ let first=0;
 for (let i=0;i<a;i++){
 first= first+i;
 }
-
+}
 console.log(num);
