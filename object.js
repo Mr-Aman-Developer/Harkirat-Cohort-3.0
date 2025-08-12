@@ -1,1 +1,2 @@
-function user(
+function user(name,age){
+}
