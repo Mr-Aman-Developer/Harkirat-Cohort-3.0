@@ -3,6 +3,8 @@
 // (Hi Mr/Mrs/Others harkirat, your age is 21)
 function greet(user){
 console.log("Hi"+ user.gender + user.name+", your Age is "+ user.age);
+if (user.age>18){
+}
 }
 let user= {
 name:"Aman",
