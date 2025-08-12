@@ -10,4 +10,7 @@ console.log(N);
 /*By Method of looping*/
 function OE(N){
 if (N%2==0){
-console.log(}}
+console.log("Even Number");
+}
+else {
+}
