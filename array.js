@@ -5,4 +5,5 @@ let user= {
 name:"Aman",
 age:18,
 gender:"male"
-},
+},{
+}
