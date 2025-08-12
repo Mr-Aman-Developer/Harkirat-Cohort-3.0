@@ -7,6 +7,6 @@ let ans= Sum(2,3);
 
 let ans2= Sum(2,70);
 let arr=["ans","ans2"];
-let i=0;i<arr.length;i++)
+for (let i=0;i<arr.length;i++)
 console.log(ans);
 console.log(ans2);
