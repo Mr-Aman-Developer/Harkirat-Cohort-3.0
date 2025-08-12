@@ -1,2 +1,2 @@
 function greet(user){
-console.log("Hello)}
+console.log("Hello "+ user.name+" You are 
