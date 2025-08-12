@@ -6,7 +6,7 @@ name:"Aman",
 age:18,
 gender:"male"
 },{
-name:"Aman",
+name:"Sadhvi",
 age:18,
 gender:"male"
 }
