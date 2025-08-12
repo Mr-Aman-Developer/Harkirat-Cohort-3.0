@@ -24,4 +24,4 @@ else {
 return false;
 }};
 let b = r(9);
-console.log(a);
+console.log(b);
