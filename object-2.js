@@ -2,4 +2,4 @@
 //and gender and greets the user with their gender
 // (Hi Mr/Mrs/Others harkirat, your age is 21)
 function greet(user){
-cosnole.log("Hi Mr."+user.name+);}
+cosnole.log("Hi Mr."+user.name+", your Age is "+);}
