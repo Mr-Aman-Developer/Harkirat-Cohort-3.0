@@ -23,5 +23,5 @@ function r(number) {
 else {
 return false;
 }};
-let b = r(18);
+let b = r(17);
 console.log(b);
