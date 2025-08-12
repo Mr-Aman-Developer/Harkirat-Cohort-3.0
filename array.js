@@ -1,7 +1,8 @@
 function Array(arr){
+if (users.age=
 }
 
-let user= {
+let user= [{
 name:"Aman",
 age:18,
 gender:"male"
