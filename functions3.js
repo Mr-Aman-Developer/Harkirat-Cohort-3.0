@@ -20,8 +20,7 @@ function r(number) {
   if (number > 18) {
     return true;
   }
-else
-{
+else {
 return false;
 }};
 let a = r(19);
