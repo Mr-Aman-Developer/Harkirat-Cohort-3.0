@@ -1,1 +1,2 @@
-//Write a function that takes a new object as input which has name , age  and gender and greets the user with their gender (Hi Mr/Mrs/Others harkirat, your age is 21)
+//Write a function that takes a new object as input which has name , age  
+and gender and greets the user with their gender (Hi Mr/Mrs/Others harkirat, your age is 21)
