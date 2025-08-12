@@ -4,5 +4,6 @@ function sum(a) {
   for (let i = 0; i < a; i++) {
     first = first + i;
   }
+return first;
 }
-console.log();
+console.log(first);
