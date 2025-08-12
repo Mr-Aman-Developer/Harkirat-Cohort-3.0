@@ -14,4 +14,4 @@ return canvote;
 }
 let a=e(19);
 console.log(a);
-/*/*verifying voting age with functions*/  
+/*verifying voting age with functions*/  
