@@ -5,4 +5,4 @@ age= 17;
 canvote=age>18;
 console.log(canvote);
 
-/*verifying age without  
+/*verifying voting age without   
