@@ -2,7 +2,7 @@ function Array(arr){
 }
 
 let user= {
-name:"Aman"
-age:18
+name:"Aman",
+age:18,
 gender:"male"
 }
