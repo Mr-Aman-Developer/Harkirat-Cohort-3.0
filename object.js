@@ -6,3 +6,5 @@ let user={
 name:"Aman",
 age:21
 }
+
+greet(user);
