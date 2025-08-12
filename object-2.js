@@ -6,6 +6,9 @@ console.log("Hi"+ user.gender + user.name+", your Age is "+ user.age);
 if (user.age>18){
 console.log("you are legal to vote ");
 }
+else{
+
+}
 }
 let user= {
 name:"Aman",
