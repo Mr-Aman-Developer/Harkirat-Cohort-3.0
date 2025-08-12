@@ -16,4 +16,5 @@ else if (N%2!=0){
 console.log("Odd Number");
 }
 }
-let num=OE(11)
+let num=OE(12);
+let num2=OE(11);
