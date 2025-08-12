@@ -4,7 +4,7 @@
 function greet(user){
 console.log("Hi"+ user.gender + user.name+", your Age is "+ user.age);
 if (user.age>18){
-console.log("you are ");
+console.log("you are legal to vote ");
 }
 }
 let user= {
