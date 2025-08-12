@@ -2,7 +2,7 @@
 //and gender and greets the user with their gender
 // (Hi Mr/Mrs/Others harkirat, your age is 21)
 function greet(user){
-cosnole.log("Hi"+ user.gender + user.name+", your Age is "+ user.age);
+console.log("Hi"+ user.gender + user.name+", your Age is "+ user.age);
 }
 let user= {
 name:"Aman",
