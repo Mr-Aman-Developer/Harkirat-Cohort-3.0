@@ -1,1 +1,2 @@
-let age=
+let age= 19;
+let canvote=age<
