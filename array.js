@@ -1,4 +1,4 @@
-function Array(arr){
+function Aray(arr){
 if (users.age >= 18 && users.gender="male"){
 console.log(users.name);
 else{
