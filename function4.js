@@ -1,4 +1,4 @@
-
+/*By simply using boolean for odd and and even numbers*/
 function oddEven(Number){
 let Even= Number%2==0;
 let Odd=Number%2!=0;
