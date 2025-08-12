@@ -1,4 +1,4 @@
 function user(name,age){
 let Name=prompt("What is your name?");
-if
+if (name)
 }
