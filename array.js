@@ -1,9 +1,10 @@
 function aray(arr){
 if (users.age >= 18 && users.gender="male"){
 console.log(users.name);
+}
 else{
 console.log("no user");
-
+}
 }
 let users= [{
 name:"Aman",
