@@ -6,5 +6,5 @@ function sum(a) {
   }
 return first;
 }
-let 
+let a=sum(5);
 console.log();
