@@ -1,4 +1,4 @@
 function Greet(Name){
-return "Ram Ram Bhai saare ane!"+ Name
+return "Ram Ram!"+ Name+ "bhai")
 }
 let a = Greet("Aman
