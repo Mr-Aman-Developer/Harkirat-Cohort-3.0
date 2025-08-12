@@ -4,3 +4,6 @@ return total;
 }
 
 let ans= Sum(2,3);
+
+let ans= Sum(2,70);
+console.log(ans);
