@@ -1,2 +1,2 @@
 let age= 19;
-let canvote=age<
+let canvote=age>18;
