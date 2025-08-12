@@ -7,7 +7,7 @@ else{
 console.log("no user");
 }
 }
-let users= [{
+const users= [{
 name:"Aman",
 age:18,
 gender:"male"
