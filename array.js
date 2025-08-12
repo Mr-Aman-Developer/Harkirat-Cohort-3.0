@@ -2,9 +2,7 @@ function Array(arr){
 if (users.age >= 18 && users.gender="male"){
 console.log(users.name);
 else{
-name:"Aman",
-age:18,
-gender:"male"}
+console.log("no user");
 }
 }
 
