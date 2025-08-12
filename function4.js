@@ -9,4 +9,5 @@ console.log(N);
 
 /*By Method of looping*/
 function OE(N){
-if (N}
+if (N%2==0){
+console.log(}}
