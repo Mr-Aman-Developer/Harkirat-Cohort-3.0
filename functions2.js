@@ -8,5 +8,5 @@ let ans2= Sum(2,70);
 let arr=[ans,ans2];
 
 for (let i=0;i<arr.length;i++){
-console.log(arr(i));
+console.log(arr[i]);
 }
