@@ -1,10 +1,10 @@
 //Write a function called sum that finds the sum from 1 to a num
 function sum(a) {
   let first = 0;
-  for (let i = 0; i < a; i++) {
+  for (let i = 0; i <= a; i++) {
     first = first + i;
   }
 return first;
 }
 let a=sum(5);
-console.log();
+console.log(a);
