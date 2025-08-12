@@ -8,4 +8,5 @@ let N=oddEven(11)
 console.log(N);
 
 /*By Method of looping*/
-function (
+function OE(N){
+if (N}
