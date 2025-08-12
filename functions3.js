@@ -23,6 +23,6 @@ function r(number) {
 else
 {
 return false;
-}
+}};
 let a = r(19);
 console.log(a);
