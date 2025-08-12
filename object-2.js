@@ -10,3 +10,4 @@ name:"Aman",
 age:21,
 gender:"Mr."
 }
+greet(user);
