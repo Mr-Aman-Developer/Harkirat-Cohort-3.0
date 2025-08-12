@@ -1,3 +1,3 @@
-function oddEven(Numnber){
-let Even=
+function oddEven(Number){
+let Even= Number%2
 }
