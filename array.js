@@ -5,7 +5,6 @@ else{
 console.log("no user");
 }
 }
-
 let users= [{
 name:"Aman",
 age:18,
