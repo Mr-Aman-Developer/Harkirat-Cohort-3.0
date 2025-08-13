@@ -1,10 +1,10 @@
-function sum(a){
-let num=0;
-for (let i=0;i<a;i++){
-num= num+a;
-}
-return num;
+function sum(a) {
+  let num = 0;
+  for (let i = 0; i < a; i++) {
+    num = num + a;
+  }
+  return num;
 }
 
-const num=sum(2);
+const num = sum(3);
 console.log(num);
