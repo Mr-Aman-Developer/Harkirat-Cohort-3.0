@@ -13,3 +13,4 @@ return a/b;
 function ops(a,b,op){
 return op(a,b);
 }
+const
