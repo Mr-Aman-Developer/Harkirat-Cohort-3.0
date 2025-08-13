@@ -7,4 +7,4 @@ return sum;
 }
 
 let num=sum(10);
-console.log(num);
+console.log();
