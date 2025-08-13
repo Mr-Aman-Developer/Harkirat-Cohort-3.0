@@ -6,5 +6,5 @@ function sum(a) {
   return num;
 }
 
-const num = sum(3);
+const num = sum(10);
 console.log(num);
