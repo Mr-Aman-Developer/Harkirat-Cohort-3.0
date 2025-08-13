@@ -11,5 +11,5 @@ function div(a,b){
 return a/b;
 }
 function ops(a,b,op){
-return a+b;
+return op=a+b;
 }
