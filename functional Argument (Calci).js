@@ -13,5 +13,5 @@ return a/b;
 function ops(a,b,op){
 return op(a,b);
 }
-const ans= sum(1,2);
+const ans= ops(1,2,div);
 console.log(ans);
