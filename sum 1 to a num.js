@@ -4,3 +4,4 @@ for (let i=0;i<a;i++){
 num= num+a;
 }
 }
+console.log(num);
