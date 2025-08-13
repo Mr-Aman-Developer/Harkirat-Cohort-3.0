@@ -1,5 +1,5 @@
 function sum(a,b){
-let total= a+b;
+let total= parseInt(a)+parseInt(b);
 return total;
 }
 
