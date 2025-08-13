@@ -3,8 +3,8 @@ let num=0;
 for (let i=0;i<a;i++){
 num= num+a;
 }
-return sum;
+return num;
 }
 
 const num=sum(10);
-console.log();
+console.log(num);
