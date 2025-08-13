@@ -14,4 +14,4 @@ function ops(a,b,op){
 return op(a,b);
 }
 const ans= sum(1,2);
-console.log
+console.log(ans);
