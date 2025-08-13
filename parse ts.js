@@ -3,4 +3,5 @@ let total= a+b;
 return total;
 }
 
-let 
+let A= sum("20",10);
+console.log(A);
